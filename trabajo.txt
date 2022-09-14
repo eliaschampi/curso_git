@@ -12,3 +12,4 @@ Domingo
 Monedas del peru
 -Soles
 -Dolares
+-Euros
